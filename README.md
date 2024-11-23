@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre mí
 - 🔧 **Desarrollador en progreso**: Estoy aprendiendo a dominar lenguajes como Python, C#, F#, JavaScript, HTML, CSS y SQL.
-- 🛡️ **Aspirante a hacker ético**: Me interesa la privacidad, la seguridad en línea, y herramientas como Tails y Kali Linux.
+- 🛡️ **Aspirante a hacker ético**: Me interesa la privacidad, la seguridad en línea, y herramientas como Loro y Kali Linux.
 - 🖥️ **Creador de soluciones**: Desarrollando MODAZON, un marketplace innovador centrado en la moda y las experiencias interactivas.
 - 🧠 **Eterno aprendiz**: Actualmente tomando el curso **CS50 de Harvard** para profundizar en la informática.
 
