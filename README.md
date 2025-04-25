@@ -5,22 +5,16 @@
 ---
 
 ## 👨‍💻 Sobre mí
-- 🔧 **Desarrollador en progreso**: Estoy aprendiendo a dominar lenguajes como Python, C#, F#, JavaScript, HTML, CSS y SQL.
-- 🛡️ **Aspirante a hacker ético**: Me interesa la privacidad, la seguridad en línea, y herramientas como Loro y Kali Linux.
-- 🖥️ **Creador de soluciones**: Desarrollando MODAZON, un marketplace innovador centrado en la moda y las experiencias interactivas.
-- 🧠 **Eterno aprendiz**: Actualmente tomando el curso **CS50 de Harvard** para profundizar en la informática.
+- 🔧 **Desarrollador en progreso**: Estoy aprendiendo a dominar lenguajes como Python, POO, C#, F#, JavaScript, HTML, CSS y SQL, PHP.
+- 🛡️ **Aspirante a hacker ético**: Me interesa la privacidad, la seguridad en línea, y herramientas como Parrot OS y Kali Linux. Tor Browser, VPNs seguras, Graphene OS y + .
+- 🖥️ **Creador de soluciones**: Desarrollando MZN, un marketplace innovador centrado en la venta de productos y servicios con experiencias interactivas.
+- 🧠 **Eterno aprendiz**: Actualmente tomando los curso **CS50 de Harvard** para reforzar en la informática. Además, de ser mayormente autodidacta y profundizar en temas de interés y actualidad. 
 
 ---
 
 ## 🛠️ Proyectos destacados
-### [MODAZON](https://github.com/tu-usuario/modazon)
-Un marketplace en desarrollo, inspirado en plataformas como Amazon, que busca ofrecer una experiencia visualmente atractiva y funcional para negocios locales.
-
-### [Flask API para empresas de autobuses](https://github.com/tu-usuario/bus-chatbot)
-Una herramienta que integra la API de OpenAI para responder preguntas sobre horarios, rutas y tarifas, mejorando la experiencia del cliente.
-
-### [Kali Linux en VirtualBox](https://github.com/tu-usuario/kali-virtualbox)
-Documentación y herramientas para configurar Kali Linux en entornos de prueba.
+### [MZN](https://github.com/tu-usuario/modazon)
+Un marketplace en desarrollo, inspirado en plataformas e-commerce, que busca ofrecer una experiencia visualmente atractiva y funcional.
 
 ---
 
@@ -33,15 +27,14 @@ Documentación y herramientas para configurar Kali Linux en entornos de prueba.
 ---
 
 ## 🌱 Objetivos actuales
-1. Completar el desarrollo de **MODAZON** desde cero utilizando tecnologías modernas.
-2. Convertirme en un profesional de la seguridad informática, dominando herramientas como **HackTheBox, etc**.
+1. Completar el desarrollo de **MZN** desde cero utilizando tecnologías modernas y de código abierto de manera altamente profesional.
+2. Convertirme en un profesional de la seguridad informática, dominando herramientas como **HackTheBox, Kali Linux, Parrot OS, etc**.
 3. Mejorar mi **inglés técnico** y mi habilidad para documentar proyectos de forma profesional.
 
 ---
 
 ## 📫 Contacto
 - **GitHub**: [github.com/MikeHulkmann.](https://github.com/Mike_Hulkmann)
-- **Correo**: [tu-email@example.com](mailto:tu-email@example.com)
-- **LinkedIn**: [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
+- **Correo**: [MHmann_I@protonmail.com](/MHmann_I@protonmail.com)
 
 Gracias por visitar mi perfil. Siempre estoy abierto a colaborar y aprender algo nuevo. ¡No dudes en contactarme! 😊
