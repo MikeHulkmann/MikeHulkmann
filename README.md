@@ -87,7 +87,7 @@ Strong emphasis on:
 ### DevOps & Infrastructure
 - Docker
 - Linux (Debian / Ubuntu / Kali)
-- Virtualization (VirtualBox)
+- Virtualization (VirtualBox, VMware)
 - VPS Deployment
 - Nginx
 - Reverse Proxy Architecture
