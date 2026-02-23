@@ -48,6 +48,15 @@ Strong emphasis on:
 - API-driven AI Applications
 - Resource-Constrained Optimization
 
+### 🔐 Applied Cryptography
+
+- Design and implementation of a portable encryption tool featuring:
+- XChaCha20-Poly1305
+- Argon2id
+- Physical key–based 2FA
+- Streaming encryption architecture
+- Secure memory wiping
+- Cross-platform binaries (Windows / Linux)
 ---
 
 ## Technical Stack
