@@ -21,7 +21,7 @@ Strong emphasis on:
 ## Core Areas
 
 ### 🔐 Cybersecurity
-- Penetration Testing (Web / Network / Local)
+- Penetration Testing (Web / Network / Host)
 - Vulnerability Assessment & Analysis
 - Secure System Hardening
 - Threat Modeling
