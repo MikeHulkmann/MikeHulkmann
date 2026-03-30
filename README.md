@@ -6,7 +6,7 @@ Full-Stack Developer | Cybersecurity Specialist | Ethical Hacking
 
 ## Profile
 
-Technical professional focused on secure systems design, offensive and defensive security practices, and scalable application development.
+Technical enthusiastic focused on secure systems design, offensive and defensive security practices, and scalable application development.
 
 Strong emphasis on:
 - Security-first architecture
@@ -38,7 +38,6 @@ Strong emphasis on:
 - Input Validation & Sanitization
 - Secure Database Modeling
 - Frontend Architecture
-- State Management
 
 ### 🧠 AI & Systems Engineering
 - Local AI Deployment
